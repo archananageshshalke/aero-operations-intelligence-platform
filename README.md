@@ -1,5 +1,10 @@
 ✈️ Aero Operations Intelligence Platform
 
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![SQL](https://img.shields.io/badge/SQL-Analytics-green)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 🚀 Executive Overview
 
 Aero Operations Intelligence Platform is an end-to-end, high-impact analytics solution engineered to evaluate airline operational performance, diagnose delay propagation patterns, and optimize network efficiency at scale.
