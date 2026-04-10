@@ -1,0 +1,7 @@
+SELECT 
+    AIRLINE,
+    ROUND(AVG(DEPARTURE_DELAY), 2) AS avg_delay
+FROM flights
+GROUP BY AIRLINE
+ORDER BY avg_delay DESC
+LIMIT 10;
