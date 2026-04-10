@@ -15,6 +15,15 @@ Designed with a strong focus on operational efficiency, this platform demonstrat
 
 ---
 
+## 📈 Project Metrics
+
+- 📊 Total Records Analyzed: *1,008,048 flights*
+- ⏱ Average Delay Range: *-5 mins to 100+ mins*
+- ✈️ Airlines Covered: *10+ major carriers*
+- 🛫 Airports Covered: *300+ locations*
+- 🔁 Delay Propagation Cases Identified: *800+ flights*
+
+---
 🎯 Strategic Objectives
 
 - Diagnose root causes of flight delays across time, routes, and aircraft rotations
@@ -25,15 +34,39 @@ Designed with a strong focus on operational efficiency, this platform demonstrat
 
 ---
 
+## ❓ Key Business Questions Addressed
+
+- What are the peak hours where flight delays are most severe?
+- Which routes consistently experience high delays and operational inefficiencies?
+- How does delay propagate across aircraft rotations?
+- Which airlines demonstrate better operational performance under similar conditions?
+- How can scheduling and turnaround planning be optimized to reduce delays?
+
+---
 📊 Analytical Highlights
 
 - Identified critical delay windows driven by operational congestion and scheduling inefficiencies
 - Uncovered high-impact routes with consistent performance degradation
 - Detected aircraft-level delay propagation influencing network-wide disruptions
 - Evaluated airline performance variance across operational conditions and time segments
-
+- 
 ---
 
+## 📌 Insights & Recommendations
+
+### 🔍 Key Insights
+- Late-night and early-morning flights show significantly higher delay patterns, indicating operational inefficiencies during low-resource windows  
+- Certain routes consistently underperform, suggesting structural network issues rather than random delays  
+- Aircraft rotation plays a critical role in delay propagation, impacting multiple downstream flights  
+- Delay patterns increase progressively throughout the day, highlighting cumulative operational pressure  
+
+### 💡 Recommendations
+- Optimize scheduling buffers for high-risk time windows to reduce cascading delays  
+- Re-evaluate underperforming routes for capacity planning and operational adjustments  
+- Improve aircraft rotation planning to minimize delay propagation across the network  
+- Introduce dynamic scheduling strategies based on historical delay patterns  
+
+---
 🛠 Technology Stack
 
 - Python (Pandas) — Data cleaning, transformation, and feature engineering
