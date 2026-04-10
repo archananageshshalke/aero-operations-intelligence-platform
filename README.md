@@ -108,7 +108,7 @@ The insights generated can support real-world decision-making in areas such as n
 
 📷 Dashboard Preview
 
-![Dashboard Preview](dashboard/dashboard_preview.png)
+![Dashboard Preview](Dashboard/dashboard_preview.png)
 
 ---
 
